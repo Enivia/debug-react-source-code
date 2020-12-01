@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "serve": "serve build",
+    "serve": "serve example/react-16.13.1",
     "test": "node test/test.js"
   },
   "repository": {
